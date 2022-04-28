@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# SST dataset
+.data/*
+
+# cached word-embeddings
+*.pt
